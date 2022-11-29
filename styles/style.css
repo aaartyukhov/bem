@@ -1,0 +1,20 @@
+.button {
+    padding: 12px;
+    background-color: azure;
+    margin: 30px;
+}
+
+.button_size_m {
+    width: 50px;
+    min-height: 50px;
+}
+
+.button_size_l {
+    width: 100px;
+    min-height: 150px;
+}
+
+.button_size_xl {
+    width: 100px;
+    min-height: 150px;
+}
